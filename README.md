@@ -12,6 +12,7 @@ DO NOT USE ON ANY PRODUCTION SERVER OR SYSTEM !
   This will be useful for things like:
  <ul>
   <li> Displaying date/time </li>
+  <li> Displaying current host and user </li>
   <li> Monitoring CPU and Memory load </li>
   <li> Keeping track of which repo is being updated via MirrorMan-ng </li>
  </ul>
