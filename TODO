@@ -2,5 +2,5 @@ Change color of uptime.
 [ TESTABLE ] Enable disabled plugins already commented out inside config files (e.g. CPU usage).
 
 [ TESTABLE ] Need to redo tmux config split.
-- Create /etc/tmux/config.d
-- have tmux.conf call everything in /etc/tmux/conf.d
+- Create /etc/tmux.conf.d [Files exist]
+- have tmux.conf call everything in /etc/tmux/conf.d [ Need code]
